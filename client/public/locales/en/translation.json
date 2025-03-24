@@ -95,7 +95,7 @@
       "rejected": "Rejected",
       "waiting": "Pending review"
     },
-    "title": "Friends"
+    "title": "Navigate"
   },
   "github_login": "Github Login",
   "hashtags": "Hashtags",
@@ -120,7 +120,9 @@
     }
   },
   "logout": "Logout",
+  "main_content": "Main content",
   "next": "Next Page",
+  "no_more": "No More",
   "preview": "Preview",
   "previous": "Previous Page",
   "publish": {
@@ -155,7 +157,11 @@
     },
     "favicon": {
       "desc": "Set the icon (Favicon) displayed in the browser's address bar",
-      "title": "Favicon"
+      "title": "Favicon",
+      "update": {
+        "success": "Favicon update was successful",
+        "failed$message": "Favicon update failed, {{message}}"
+      }
     },
     "footer": {
       "desc": "Set the footer content of the site (HTML)",
@@ -213,7 +219,6 @@
     "title": "Top"
   },
   "unlisted": "Unlisted",
-  "untitled": "Untitled",
   "untop": {
     "title": "Untop"
   },

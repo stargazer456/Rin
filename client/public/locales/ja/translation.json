@@ -95,7 +95,7 @@
       "rejected": "拒否されました",
       "waiting": "審査待ち"
     },
-    "title": "友人"
+    "title": "ナビゲーションサイト"
   },
   "github_login": "Github ログイン",
   "hashtags": "ラベル",
@@ -120,7 +120,9 @@
     }
   },
   "logout": "ログアウト",
+  "main_content": "本文",
   "next": "次のページ",
+  "no_more": "もうない",
   "preview": "プレビュー",
   "previous": "前のページ",
   "publish": {
@@ -155,7 +157,11 @@
     },
     "favicon": {
       "desc": "ブラウザのアドレスバーに表示されるアイコン（ファビコン）を設定します。",
-      "title": "ファビコン"
+      "title": "ファビコン",
+      "update": {
+        "success": "ファビコンの更新が成功しました",
+        "failed$message": "ファビコンの更新に失敗しました、{{message}}"
+      }
     },
     "footer": {
       "desc": "サイトのフッターコンテンツを設定する（HTML）",
@@ -213,7 +219,6 @@
     "title": "キャッシュをクリア"
   },
   "unlisted": "リストされていない",
-  "untitled": "無題",
   "untop": {
     "title": "トップ解除"
   },
